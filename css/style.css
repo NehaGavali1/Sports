@@ -10,7 +10,7 @@ body{
 }
 @media only screen and (min-width: 200px) and (max-width: 767px){
 	#maps{ 
-		width:250px;
+		width:300px;
 	border:3px solid red;}
 
 }
