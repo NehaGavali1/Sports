@@ -8,8 +8,10 @@ body{
 	line-height: 1.5;
 	font-family: 'Poppins', sans-serif;
 }
-#sport img {
-	height:100px;}
+@media  (min-width: 200px) and (max-width: 601px){
+	#maps{ width:200px;}
+
+}
 /* #nav {
     list-style-type: none;
     margin: 0;
