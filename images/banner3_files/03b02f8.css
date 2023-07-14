@@ -1,0 +1,1 @@
+.CollectionPage .Section--feature_panel_module.Section--first{display:flex;min-height:50vh}@media (min-width:900px){.CollectionPage .Section--feature_panel_module.Section--first{min-height:530px}}.CollectionPage .Section--embed_module+.Section--text_module{margin-top:var(--section-spacing-sm)}
